@@ -1,2 +1,1 @@
-# Practice
-Repository for practicing all sorts
+This is Ryan's first git project!
